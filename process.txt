@@ -1,0 +1,4 @@
+MONGO_CONNECTION_URL=mongodb+srv://ellieshilla:n7normandy@cluster0.n6hml.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+EMAIL=testforcourse@ukr.net
+PASSWORD=pass12345word
+EMAIL_PROVIDER=ukr.net
